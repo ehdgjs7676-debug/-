@@ -1,0 +1,8 @@
+{
+  "name": "DANANG VVIP - 카지노 & 나이트라이프 가이드",
+  "description": "경험자를 위한 베트남 다낭 카지노 규정, 게임 인사이트, VIP 시설 및 프리미엄 나이트라이프 독립 정보 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
